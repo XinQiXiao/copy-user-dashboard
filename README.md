@@ -5,5 +5,4 @@
 	### branch & tag 
 		t0.1.0 project 创建
 
-		doing
-		Step 5
+		t0.2.0 project finish
